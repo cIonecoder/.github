@@ -1,6 +1,6 @@
 
 <h1 align="center">Passionate Backend Engineers - Portfolio 👋</h1>
-    <img width="40%" align="right" src="https://user-images.githubusercontent.com/47518272/194712323-1af1e4f3-d160-4946-b8c7-4860e7748289.gif" alt="BAEKJungHo's Maker Card" />
+    <img width="50%" align="right" src="https://user-images.githubusercontent.com/47518272/194712323-1af1e4f3-d160-4946-b8c7-4860e7748289.gif" alt="BAEKJungHo's Maker Card" />
 
 - __Members__
   - [Jungho](https://github.com/BAEKJungHo?tab=following)
